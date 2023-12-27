@@ -8,4 +8,4 @@ To improve Human Resource Management with the HR Employee Attrition data using P
 
 PBIX FILE LINK :https://drive.google.com/file/d/1SZRBDxwx6hz3g4CXwenQ0fJRgDPpVxpV/view?usp=sharing
 
-PDF LINK :https://drive.google.com/file/d/1UNlSWfp7yhDfDaxmxZKFWOGw3BATATEZ/view?usp=sharing
+PDF LINK :https://drive.google.com/file/d/1UaV6RrAbuAPQN8GYgidB_LyCBG4bAXbl/view?usp=sharing
