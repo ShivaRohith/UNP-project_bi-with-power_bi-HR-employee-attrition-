@@ -1,4 +1,4 @@
-# UNP-project_bi-with-power_bi-HR-employee-attrition-
+# UNP-Project_BI-with-POWER-BI-HR-employee-Data
 completed UNP POWER BI project with UNITED NETWORK OF PROFESSIONALS
 
 Key Highlights :
